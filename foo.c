@@ -9,8 +9,11 @@ int main(int argc, char *argv[]) {
     gtk_widget_show(window);
     gtk_main();
 
-    //QQQQ2
 
+
+
+    QQQQ1
+>>>>>>> eff95f3a8ded2c9ac7083e322dc46b115837a410
 
     return 0;
 }
