@@ -9,10 +9,7 @@ int main(int argc, char *argv[]) {
     gtk_widget_show(window);
     gtk_main();
 
-<<<<<<< HEAD
-    //done 2xx
-=======
-    //done 2
->>>>>>> ad0af12617d1b9860e42e31231eb731817be7553
+    //done 002
+
     return 0;
 }
