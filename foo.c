@@ -10,6 +10,7 @@ int main(int argc, char *argv[]) {
     gtk_main();
 
 
-    //done 001-new1, update 002
+   //done 001-new1, add-000002-xxxxxxxx
+>>>>>>> 41bb5f0c9df0c2bd48d90516c25ae339d72b858e
     return 0;
 }
