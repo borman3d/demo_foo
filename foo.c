@@ -9,13 +9,8 @@ int main(int argc, char *argv[]) {
     gtk_widget_show(window);
     gtk_main();
 
-<<<<<<< HEAD
-    // update my-001-2
-    // aaaaaa
-=======
-    // update 
-    // home
->>>>>>> b77c16136cb159aee8787eebe9802d256d81c6ae
+    //QQQQ2
+
 
     return 0;
 }
