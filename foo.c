@@ -10,10 +10,7 @@ int main(int argc, char *argv[]) {
     gtk_main();
 
 
-
-
-    QQQQ1
->>>>>>> eff95f3a8ded2c9ac7083e322dc46b115837a410
+    // master: just did something
 
     return 0;
 }
