@@ -13,6 +13,7 @@ int main(int argc, char *argv[]) {
     // new-1: this is wrong
     // master: just did something
     // new-1: add test 1
+    // master: add test 1
 
     return 0;
 }
