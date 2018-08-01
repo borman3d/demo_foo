@@ -13,8 +13,12 @@ int main(int argc, char *argv[]) {
     // new-1: this is wrong
     // master: just did something
     // new-1: add test 1
+<<<<<<< HEAD
     // master: add test 1
     // new-1: add test 2
+=======
+    // new-1: add test 10
+>>>>>>> new_1
 
     return 0;
 }
