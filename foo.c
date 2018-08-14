@@ -15,7 +15,11 @@ int main(int argc, char *argv[]) {
     // new-1: add test 1
     // master: add test 1
     // new-1: add test 2
+<<<<<<< HEAD
     // test-2:
+=======
+    // new-1: add test 10
+>>>>>>> 0b2d663608acc966ae02c888b80763888de24584
 
     return 0;
 }
